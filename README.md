@@ -4,6 +4,9 @@ So far this script has been tested on the Toshiba Chromebook 2 (Swanky) running 
 It fixes sound (unfortunately the mic still doesn't work) and keyboard layout.
 See http://www.fascinatingcaptain.com/blog/automate-chromebook-fixes-for-linux/
 
+# What has been fixed by Yanying
+The keyboard layout for Toshiba Chromebook 2014 (swanky), swap Super key(search key) with Ctrl key. Happy use it!
+
 # How to use
 Copy and paste these commands in a terminal window and reboot!
 
