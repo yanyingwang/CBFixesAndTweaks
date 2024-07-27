@@ -44,6 +44,8 @@ fix_keyboard_keys
 echo "*******************************************************"
 echo "Remapped top row media keys"
 
+echo -option ctrl:swap_lwin_lctrl >> ~/.Xkbmap
+
 ## reboot
 echo "*******************************************************"
 read -p "Your Chromebook will now reboot! Press any key to continue..."
