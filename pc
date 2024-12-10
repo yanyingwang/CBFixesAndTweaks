@@ -98,6 +98,9 @@ xkb_symbols "editing" {
     key <FK09> { 	[XF86AudioLowerVolume, NoSymbol, NoSymbol, NoSymbol, F9] 	};
     key <FK10> { 	[XF86AudioRaiseVolume, NoSymbol, NoSymbol, NoSymbol, F10] 	};
     key <LWIN> { 	[Caps_Lock] };
+    key <LWIN> {    [Control_L] };
+    key <LCTL> {    [Super_L] };
+
 
     // added by Captain
     key <UP>   {	[  Up, Page_Up			]	};
